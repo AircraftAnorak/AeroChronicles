@@ -9,6 +9,14 @@ aux_links:
 
 color_scheme: dark
 
+aux_links: false
+
+
 callouts:
   note:
     color: purple
+ 
+  info:
+    color: green
+ 
+footer_content: "© Copyright Caspar B Pierce 'Aviation Anorak' "
