@@ -4,9 +4,7 @@ layout: default
 nav_order: 3
 ---
 
-<script type="text/javascript"
-    src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-</script>
+{% include math.html %}
 
 <h1>Aircraft Speed</h1>
 
