@@ -51,11 +51,7 @@ Where _r_ is the radius of the planet
 
 For spaceflight, h<sub>a</sub> is important as the local gravitational acceleration, _g_ varies with it
 
-<div>
-
 $$ g(h) = g_{0}{\left({\frac{r}{h_{a}}}\right)}^2 $$
-
-</div>
 
 Where <i>g<sub>0</sub></i> is the acceleration of gravity at sea level (<i>h<sub>g</sub></i> = 0)
 
@@ -68,21 +64,15 @@ Geopotential altitudes are used to construct ISA tables however <i>h<sub>G</sub>
 
 For altitudes where h < 11 km
 
-<div>
-
 $$ T = T_{a} - λh $$
 
 $$ {\frac{ρ}{ρ_{1}}} = {\left({\frac{T}{T_{1}}}\right)}^{\frac{g}{λR}-1} $$
 
 $$ {\frac{P}{P_{1}}} = {\left({\frac{T}{T_{1}}}\right)}^{\frac{g}{λR}} $$
 
-</div>
-
 ## Lower Stratosphere
 
 For altitudes where 11 km < h < 20 km
-
-<div>
 
 $$ T = constant $$
 
@@ -90,4 +80,3 @@ $$ {\frac{ρ}{ρ_{1}}} = e^{-{\frac{g}{λR}{(h-h_{1})}}} $$
 
 $$ {\frac{P}{P_{1}}} = e^{-{\frac{g}{λR}{(h-h_{1})}}} $$
 
-</div>

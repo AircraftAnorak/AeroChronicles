@@ -2,6 +2,8 @@ title: Aero Chronicles
 description: Aerospace Engineering documentation
 theme: just-the-docs
 
+markdown: kramdown
+
 url: https://AircraftAnorak.github.io
 
 aux_links:
