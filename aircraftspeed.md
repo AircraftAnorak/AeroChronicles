@@ -1,7 +1,8 @@
 ---
 title: Aircraft Speed
 layout: default
-nav_order: 3
+parent: Aerodynamics
+nav_order: 4
 ---
 
 {% include math.html %}
